@@ -1,0 +1,3 @@
+# General dependencies (usually need brew to be installed if on mac)
+
+brew install gmsh --with-fltk --with-opencascade

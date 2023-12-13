@@ -1,0 +1,75 @@
+LOCUS       Test_Circuit 2722 bp ds-DNA     linear       25-JUL-2019
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     misc_feature    1..544
+                     /label="pEF1a"
+                     /ApEinfo_revcolor=#4661A1
+                     /ApEinfo_fwdcolor=#4661A1
+     misc_feature    545..594
+                     /label="PhiC31_attB_1"
+                     /ApEinfo_revcolor=#9C8779
+                     /ApEinfo_fwdcolor=#9C8779
+     misc_feature    595..603
+                     /label="Kozak"
+                     /ApEinfo_revcolor=#A402C0
+                     /ApEinfo_fwdcolor=#A402C0
+     misc_feature    604..2439
+                     /label="PhiC31_integrase_NLS"
+                     /ApEinfo_revcolor=#9C8779
+                     /ApEinfo_fwdcolor=#9C8779
+     misc_feature    2440..2672
+                     /label="BGH_Terminator"
+                     /ApEinfo_revcolor=#5BBDC3
+                     /ApEinfo_fwdcolor=#5BBDC3
+     misc_feature    complement(2673..2722)
+                     /label="PhiC31_attP_1"
+                     /ApEinfo_revcolor=#9C8779
+                     /ApEinfo_fwdcolor=#9C8779
+ORIGIN
+        1 ggatctgcgatcgctccggtgcccgtcagtgggcagagcgcacatcgcccacagtccccg
+        1 agaagttggggggaggggtcggcaattgaacgggtgcctagagaaggtggcgcggggtaa
+        1 actgggaaagtgatgtcgtgtactggctccgcctttttcccgagggtgggggagaaccgt
+        1 atataagtgcagtagtcgccgtgaacgttctttttcgcaacgggtttgccgccagaacac
+        1 agctgaagcttcgaggggctcgcatctctccttcacgcgcccgccgccctacctgaggcc
+        1 gccatccacgccggttgagtcgcgttctgccgcctcccgcctgtggtgcctcctgaactg
+        1 cgtccgccgtctaggtaagtttaaagctcaggtcgagaccgggcctttgtccggcgctcc
+        1 cttggagcctacctagactcagccggctctccacgctttgcctgaccctgcttgctcaac
+        1 tctacgtctttgtttcgttttctgttctgcgccgttacagatccaagctgtgaccggcgc
+        1 ctacCGGTGCGGGTGCCAGGGCGTGCCCttGGGCTCCCCGGGCGCGTACTCCACGCCGCC
+        1 ACCatggatacctacgccggagcctacgacagacagagccgggagagagagaacagcagc
+        1 gccgccagccccgccacccagagaagcgccaacgaggataaggccgccgatctgcagaga
+        1 gaggtggagagggacggcggcagattcagatttgtgggccacttcagcgaggcccctggc
+        1 accagcgccttcggcaccgccgagagacccgagttcgagagaatcctgaacgagtgtagg
+        1 gccggcaggctgaacatgatcatcgtgtacgacgtgtcccggttcagcaggctgaaggtg
+        1 atggacgccatccctatcgtgtccgagctgctggccctgggcgtgaccatcgtgtccacc
+        1 caggaaggcgtctttagacagggcaacgtgatggacctgatccacctgatcatgaggctg
+        1 gacgccagccacaaggagagcagcctgaagagcgccaagatcctggacaccaagaacctg
+        1 cagagggagctgggcggctatgtgggcggcaaggccccctacggcttcgagctggtgtcc
+        1 gagaccaaggagatcacccggaacggcaggatggtgaacgtggtgatcaacaagctggcc
+        1 cacagcaccacccccctgaccggccccttcgagtttgagcccgacgtgatcaggtggtgg
+        1 tggcgggagatcaagacccacaagcacctgcctttcaagcccggcagccaggccgccatc
+        1 caccccggcagcatcaccggcctgtgtaagagaatggacgccgacgccgtgcccaccaga
+        1 ggcgagaccatcggcaagaaaaccgccagcagcgcctgggaccccgccaccgtgatgaga
+        1 atcctgagggaccctaggatcgccggcttcgccgccgaggtgatctacaagaagaagccc
+        1 gacggcacccccaccaccaagatcgagggctacagaatccagagagaccccatcaccctg
+        1 agacctgtggagctggactgtggccctatcatcgagcctgccgagtggtacgagctgcag
+        1 gcctggctggacggcagaggcagaggcaagggcctgagcagaggccaggccatcctgagc
+        1 gccatggacaagctgtactgtgagtgtggcgccgtgatgaccagcaagagaggcgaggag
+        1 agcatcaaggacagctaccggtgccggagaagaaaggtggtggaccccagcgcccctggc
+        1 cagcacgagggcacctgtaatgtgagcatggccgccctggacaagttcgtggccgagcgg
+        1 atcttcaacaagatccggcacgccgagggcgacgaggagaccctggccctgctgtgggag
+        1 gccgccagaagattcggcaagctgaccgaggcccccgagaagagcggcgagagggccaac
+        1 ctggtggccgagagagccgacgccctgaacgccctggaggagctgtacgaggacagagcc
+        1 gccggagcctatgacggccctgtgggcaggaagcacttcagaaagcagcaggccgccctg
+        1 accctgagacagcagggcgccgaggaaagactggccgagctggaggccgccgaggcccct
+        1 aagctgcccctggatcagtggttccccgaggatgccgacgccgaccccaccggccccaag
+        1 tcctggtggggcagagccagcgtggacgacaagagggtgttcgtgggcctgttcgtggat
+        1 aagatcgtggtgaccaagagcaccaccggcaggggccagggcacccccatcgagaagaga
+        1 gccagcatcacctgggccaagcctcccaccgacgacgacgaggatgacgcccaggacggc
+        1 accgaggacgtggccgcccctaagaaaaagcggaaagtgattccgatctgtgccttctag
+        1 ttgccagccatctgttgtttgcccctcccccgtgccttccttgaccctggaaggtgccac
+        1 tcccactgtcctttcctaataaaatgaggaaattgcatcgcattgtctgagtaggtgtca
+        1 ttctattctggggggtggggtggggcaggacagcaagggggaggattgggaagacaatag
+        1 caggcatgctggggatgcggtgggctctatggCTACGCCCCCAACTGAGAGAACTCaaAG
+        1 GTTACCCCAGTTGGGGCACTAC
+//
