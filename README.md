@@ -1,2 +1,2 @@
 # cellarchitect
-Code base for runnin CellArchitect
+Code base for CellArchitect
